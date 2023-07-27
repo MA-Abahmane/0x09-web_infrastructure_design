@@ -1,1 +1,1 @@
-I created a website that will help employees get in touch with me.
+I created a website that will help employees to get in touch with me.
